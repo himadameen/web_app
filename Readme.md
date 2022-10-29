@@ -44,7 +44,7 @@
     </br>
     14. Render the project and check the user data is stored and effectively render the post and comment for the post and check each component of your functionality is working or not. If it is any error debug and sort the issues. 
     </br>
-
+</br>
 So, thus the process and procedure of building UI layer of this application.
-
+</br>
 </div>

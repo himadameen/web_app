@@ -6,17 +6,16 @@
 
 <div>
     This Project deals with the basic entertainment which user can upload their photo's give caption and comments on those post.
-
     User can use this app friendly which is customize and easy to handle. 
 </div>
 
 <h3>Tech Stack</h3>
-
+</br>
 <h6>React JS, Node JS, Express, Mongo DB</h6>
-
-
+</br>
+</br>
 <div>Frontend - Procedure</div>
-
+</br>
 <div>
     1. First create the react app "npx-create-react-app" and remove the unwanted things which not supposed to used in our project.
     </br>
@@ -46,7 +45,7 @@
     </br>
     14. Render the project and check the user data is stored and effectively render the post and comment for the post and check each component of your functionality is working or not. If it is any error debug and sort the issues. 
     </br>
-    
+
 So, thus the process and procedure of building UI layer of this application.
 
 </div>

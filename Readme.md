@@ -10,10 +10,9 @@
 </div>
 
 <h3>Tech Stack</h3>
-</br>
+
 <h6>React JS, Node JS, Express, Mongo DB</h6>
-</br>
-</br>
+
 <div>Frontend - Procedure</div>
 </br>
 <div>
